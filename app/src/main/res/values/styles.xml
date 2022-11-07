@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#f8edff</color>
+    <color name="title">#bfb4ed</color>
+    <color name="flight">#cfc5fc</color>
+    <color name="times">#e7e3fa</color>
+
+</resources>
